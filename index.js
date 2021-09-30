@@ -1,1 +1,5 @@
-console.log("hello git")
+newFunction();
+
+function newFunction() {
+    console.log("hello git and github");
+}
